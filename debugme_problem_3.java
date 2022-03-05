@@ -14,7 +14,7 @@ public class Problem4 {
         list.add("/n");
         list.add(", world");
 
-        System.out.printf(list.toString());
+        list.print();
 
     }
 }
